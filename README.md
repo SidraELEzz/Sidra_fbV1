@@ -25,14 +25,13 @@ $ ls && cd Sidra_fbV1 && ls
 
 ## Usage :
 ```
- $ python2 Sidra.py
- 
-$Tool key :
-
-$ Tool Username »»@TT_RQ
-
-$ Tool Password»»@SS_SS_1
+ $ python2 flb2.py
 ```
+
+## ***Tool key***
+* Telegram : [Follow Me](https://t.me/TT_RQ)
+
+
 ## ***Follow Me***
 * Telegram : [Follow Me](https://t.me/TT_RQ)
 * Youtube. : [Follow Me](https://youtube.com/channel/UCzFviFYCOJI4IwhdVOQTqIw)
