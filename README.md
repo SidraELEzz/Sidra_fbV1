@@ -1,4 +1,4 @@
-<h1 align="center">Sidra_fbV1</h1>
+<h1 align="center">Sidra</h1>
 <p align="center">A new clone of Facebook Arab countries without a checkpoint</p>
 
 
@@ -7,25 +7,33 @@
 ## Installation :
 ```
 using in the Termux ↓↓↓
+
 $ apt update
+
 $ apt upgrade -y
+
 $ pkg install python
+
 $ pkg install python2 -y
+
 $ pkg install git
+
 $ pip2 install requests
+
 $ pip2 install mechanize
+
 $ pip install lolcat
-$ git clone https://github.com/SidraELEzz/Sidra_fbV1
-```
 
-## Tools Run :
-```
-$ ls && cd Sidra_fbV1 && ls
-```
+$ git clone https://github.com/SidraELEzz/Sidra
 
-## Usage :
-```
- $ python2 flb2.py
+$ ls 
+
+$ cd Sidra
+
+$ ls
+
+$ python2 flb2
+
 ```
 
 ## ***Tool key***
@@ -34,7 +42,7 @@ $ ls && cd Sidra_fbV1 && ls
 
 ## ***Follow Me***
 * Telegram : [Follow Me](https://t.me/TT_RQ)
-* Youtube. : [Follow Me](https://youtube.com/channel/UCzFviFYCOJI4IwhdVOQTqIw)
+* Youtube. : [Follow Me](https://youtube.com/c/SidraTermux)
 
 ### Warning
 
@@ -43,5 +51,5 @@ $ ls && cd Sidra_fbV1 && ls
  in such cases🖊Written by Sidra ELEzz.***
 
 ### Screenshot
-![Screenshot_2021-01-01-11-03-27](https://raw.githubusercontent.com/SidraELEzz/Sidra_fbV1/main/Screenshot_2021-01-01-11-03-27.png)
+![Screenshot_٢٠٢١٠٣١٧-١٥٠٩٣١](https://raw.githubusercontent.com/SidraELEzz/Sidra/main/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A1%D9%A0%D9%A3%D9%A1%D9%A7-%D9%A1%D9%A5%D9%A0%D9%A9%D9%A3%D9%A1.png)
 
